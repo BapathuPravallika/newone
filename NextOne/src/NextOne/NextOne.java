@@ -5,4 +5,8 @@ public class NextOne {
 	{
 		System.out.println("Hello World");
 	}
+	public static void function()
+	{
+		System.out.println("modification from team1");
+	}
 }
